@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "title": "My First Note",
+        "content": "Hello Kavya!",
+        "pinned": false,
+        "updatedAt": "2026-07-21T17:31:58.618Z",
+        "color": "#FECACA"
+    },
+    {
+        "id": 2,
+        "title": "Major Project",
+        "content": "Build Quick Notes App",
+        "pinned": false,
+        "updatedAt": "2026-07-21T17:31:34.190Z",
+        "color": "#FED7AA"
+    },
+    {
+        "id": 1782563457344,
+        "title": "Third Note",
+        "content": "Testing automatic ID",
+        "pinned": false,
+        "color": "#BBF7D0",
+        "updatedAt": "2026-07-21T17:32:08.312Z"
+    },
+    {
+        "id": 1782563772979,
+        "createdAt": "2026-06-27T12:36:12.980Z",
+        "updatedAt": "2026-07-21T17:31:48.958Z",
+        "title": "Date Test",
+        "content": "Testing created and updated dates",
+        "pinned": false,
+        "color": "#FBCFE8"
+    },
+    {
+        "id": 1782564018927,
+        "category": "General",
+        "priority": "Medium",
+        "createdAt": "2026-06-27T12:40:18.928Z",
+        "updatedAt": "2026-07-21T17:31:43.217Z",
+        "title": "Backend Test",
+        "content": "Learning Node.js",
+        "pinned": false,
+        "color": "#DDD6FE"
+    },
+    {
+        "id": 1782738869854,
+        "pinned": false,
+        "category": "Study",
+        "priority": "High",
+        "color": "#FFD700",
+        "createdAt": "2026-06-29T13:14:29.854Z",
+        "updatedAt": "2026-07-20T19:18:36.956Z",
+        "title": "Backend Completed",
+        "content": "PUT API is working."
+    },
+    {
+        "id": 1782745767537,
+        "pinned": false,
+        "category": "General",
+        "priority": "High",
+        "color": "#ffffff",
+        "createdAt": "2026-06-29T15:09:27.537Z",
+        "updatedAt": "2026-06-29T15:09:27.537Z",
+        "title": "College",
+        "content": "Project"
+    },
+    {
+        "id": 1783084323811,
+        "pinned": true,
+        "category": "Work",
+        "priority": "High",
+        "color": "#FED7AA",
+        "createdAt": "2026-07-03T13:12:03.811Z",
+        "updatedAt": "2026-07-21T17:41:29.853Z",
+        "title": "my first experience",
+        "content": "how i want to become frontend devloper"
+    },
+    {
+        "id": 1783176179435,
+        "pinned": false,
+        "category": "Personal",
+        "priority": "Medium",
+        "color": "#ffffff",
+        "createdAt": "2026-07-04T14:42:59.435Z",
+        "updatedAt": "2026-07-20T19:18:54.417Z",
+        "title": "check update edit",
+        "content": "hello heyo"
+    },
+    {
+        "id": 1783340144741,
+        "pinned": false,
+        "category": "Work",
+        "priority": "High",
+        "color": "#BFDBFE",
+        "createdAt": "2026-07-06T12:15:44.741Z",
+        "updatedAt": "2026-07-21T17:24:34.060Z",
+        "title": "my today",
+        "content": "hii  hello"
+    },
+    {
+        "id": 1784570399988,
+        "pinned": false,
+        "category": "Work",
+        "priority": "High",
+        "color": "#ffffff",
+        "createdAt": "2026-07-20T17:59:59.988Z",
+        "updatedAt": "2026-07-20T18:00:17.900Z",
+        "title": "hello todays testing",
+        "content": "hiiii  how are you"
+    },
+    {
+        "id": 1784655632009,
+        "pinned": false,
+        "category": "Personal",
+        "priority": "Medium",
+        "color": "#BBF7D0",
+        "createdAt": "2026-07-21T17:40:32.009Z",
+        "updatedAt": "2026-07-21T17:40:32.010Z",
+        "title": "last note ",
+        "content": "hello"
+    }
+]
